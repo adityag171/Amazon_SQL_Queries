@@ -4,4 +4,4 @@ In this project, I worked with a sample Amazon dataset to solve various business
 
 ## ERD Diagram
 
-![Amazon ERD](Updated ERD - Amazon.png)
+![Amazon ERD](amazon_erd.png)
